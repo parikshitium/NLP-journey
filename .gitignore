@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+
+sentiment/sentiment_model/
+sentiment/results/
+sentiment/eval_results/
