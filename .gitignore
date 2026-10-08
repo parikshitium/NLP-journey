@@ -4,3 +4,4 @@ __pycache__/
 sentiment/sentiment_model/
 sentiment/results/
 sentiment/eval_results/
+semantic/semantic_index.pt
