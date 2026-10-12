@@ -5,3 +5,4 @@ sentiment/sentiment_model/
 sentiment/results/
 sentiment/eval_results/
 semantic/semantic_index.pt
+banking_classifier/classifier.pt
